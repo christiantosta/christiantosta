@@ -20,7 +20,7 @@ one of most promising cities for IT development in the country.
 
 ## Current Stats
 
-|   ![Christian Tosta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiantosta&theme=react-dark&hide_border=true)
+|   ![Christian Tosta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=christiantosta&theme=react-dark&hide_border=true) |
 | :---: |
 
 | ![Christian Tosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=christiantosta&show_icons=true&theme=react&hide_border=true) | ![Tosta's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=christiantosta&theme=react&hide_border=true) |
