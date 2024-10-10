@@ -1,4 +1,4 @@
-Select Language : [English](README.md) | [Português](README-pt_br.md)
+Select Language : [English](README.md) | [Português](README-pt_BR.md)
 
 <p align="right">
   <a href="https://www.linkedin.com/in/christian-tosta/">
