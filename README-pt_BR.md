@@ -14,7 +14,7 @@ Select Language : [English](README.md) | [Português](README-pt_BR.md)
 
 ## Sobre mim
 
-Hey there,
+Olá,
 
 Sou o Christian Tosta, proprietário e CIO da Infra7, uma companhia fundada em Sete Lagoas, Brasil. Sete Lagoas é uma cidade localizada no vale de Santa Helena, perto de Belo Horizonte, 
 capital do estado de Minas Gerais e uma das mais promissoras cidades para o desenvolvimento em TI no país.
